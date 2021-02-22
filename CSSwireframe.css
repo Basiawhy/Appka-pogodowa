@@ -96,3 +96,10 @@
         color: #42A5F5;
         font-size: 30px;
     }
+    
+    .github {
+        text-align: center;
+        color: #be2d54;
+        background-color: antiquewhite;
+        font-size: 30px
+    }
